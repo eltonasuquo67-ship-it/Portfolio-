@@ -1,8 +1,7 @@
 
-<!DOCTYPE html>
+
 <html>
-<head>
-  <title>Elton Portfolio</title>
+  <Elton Portfolio</title>
 </head>
 <body style="font-family:Arial;text-align:center;background:#0f172a;color:white;padding:40px;">
 
