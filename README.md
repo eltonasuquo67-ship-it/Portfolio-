@@ -66,7 +66,7 @@
 
   Email:eltonasuquo67@gmail.com
 
-  LinkedIn:
+  LinkedIn: www.linkedin.com/in/elton-asuquo-a6184b33a
       <a href="https://www.linkedin.com" style="color:#38bdf8;">
         Visit My LinkedIn Profile
       </a>
