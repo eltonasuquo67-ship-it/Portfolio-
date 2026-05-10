@@ -1,7 +1,6 @@
 <html>
 <body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
-
-  <!-- Header -->
+ <!-- Header -->
   <div style="text-align:center; padding:60px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
     <p style="font-size:18px; color:#cbd5e1;">
@@ -30,25 +29,7 @@
       <li>Basic Data Storytelling</li>
     </ul>
   </div>
-  <!-- Projects -->
-  <div style="max-width:800px; margin:auto; padding:30px;">
-    <h2>📊 Projects</h2>
-
-   US Population Growth Analysis
-    
-  Analyzed population trends from 1950–2015 using SQL and Excel to identify growth patterns across regions.
-
-    
-  Sales Performance Dashboard (Power BI)
   
-  Built an interactive dashboard to track sales performance, revenue trends, and product insights for business decision-making.
-    
-
-   Data Cleaning & Reporting Project
-    
-  Cleaned messy datasets, removed duplicates, handled missing values, and prepared structured reports for analysis.
-    </p>
-  </div>
   <!-- Contact -->
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>📞 Contact</h2>
