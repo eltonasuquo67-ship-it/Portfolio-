@@ -35,9 +35,9 @@
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>📞 Contact</h2>
 
-  Email:eltonasuquo67@gmail.com
+  Email: eltonasuquo67@gmail.com
   
-   Phone:+2349037908403 |
+   Phone: +2349037908403 |
    
   
    LinkedIn:<a href="https://www.linkedin.com" style="color:#38bdf8;">
