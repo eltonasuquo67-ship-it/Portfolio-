@@ -25,7 +25,8 @@
       Data Analyst | Power BI | SQL | Excel
     </p>
     <p style="color:#94a3b8;">
-      Turning raw data into clear insights that support better business decisions
+      Data Analyst with a sales background skilled in turning data into actionable insights that drive business growth, 
+      with strong analytical, communication, and problem-solving skills.
     </p>
 
 
@@ -37,6 +38,7 @@
   Email:eltonasuquo67@gmail.com
   
    Phone:+2349037908403
+   
   
    <a href="https://www.linkedin.com" style="color:#38bdf8;">
         Visit My LinkedIn Profile
