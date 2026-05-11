@@ -6,7 +6,7 @@
 
 <div style="text-align:center; margin-top:40px;">
 
-  <img src="your-photo.jpg"
+  <img src="https://github.com/eltonasuquo67-ship-it/Portfolio-Website/blob/a56188a16dd80cd98fab7843672797da1a8644d0/WhatsApp%20Image%202026-05-11%20at%2012.18.13.jpeg"
        alt="Profile Photo"
        style="
        width:220px;
@@ -40,7 +40,7 @@
   
    Phone:+2349037908403
   
-  LinkedIn: www.linkedin.com/in/elton-asuquo-a6184b33a
+  LinkedIn: 
       <a href="https://www.linkedin.com" style="color:#38bdf8;">
         Visit My LinkedIn Profile
       </a>
