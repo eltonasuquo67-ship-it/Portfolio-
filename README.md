@@ -37,7 +37,7 @@
 
   Email:eltonasuquo67@gmail.com
   
-   Phone:+2349037908403|
+   Phone:+2349037908403 |
    
   
    LinkedIn:<a href="https://www.linkedin.com" style="color:#38bdf8;">
