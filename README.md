@@ -6,7 +6,7 @@
 
 <div style="text-align:center; margin-top:40px;">
 
-  <img src="https://github.com/eltonasuquo67-ship-it/Portfolio-Website/blob/a56188a16dd80cd98fab7843672797da1a8644d0/WhatsApp%20Image%202026-05-11%20at%2012.18.13.jpeg"
+  <img src="WhatsApp Image 2026-05-11 at 12.18.13.jpeg"
        alt="Profile Photo"
        style="
        width:220px;
@@ -27,9 +27,7 @@
     <p style="color:#94a3b8;">
       Turning raw data into clear insights that support better business decisions
     </p>
-  </div>
 
-</div>
 
 
 <!-- Contact -->
