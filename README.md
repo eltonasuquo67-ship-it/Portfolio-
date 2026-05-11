@@ -1,6 +1,24 @@
 <html>
 <body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
  <!-- Header -->
+
+<!-- PROFILE PHOTO SECTION -->
+
+<div style="text-align:center; margin-top:40px;">
+
+  <img src="your-photo.jpg"
+       alt="Profile Photo"
+       style="
+       width:220px;
+       height:220px;
+       border-radius:50%;
+       object-fit:cover;
+       border:4px solid #38bdf8;
+       ">
+
+</div>
+
+ 
   <div style="text-align:center; padding:30px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
     <p style="font-size:18px; color:#cbd5e1;">
@@ -10,6 +28,36 @@
       Turning raw data into clear insights that support better business decisions
     </p>
   </div>
+
+</div>
+
+
+<!-- Contact -->
+  <div style="max-width:800px; margin:auto; padding:30px;">
+    <h2>📞 Contact</h2>
+
+  Email:eltonasuquo67@gmail.com
+  
+   Phone:+2349037908403
+  
+  LinkedIn: www.linkedin.com/in/elton-asuquo-a6184b33a
+      <a href="https://www.linkedin.com" style="color:#38bdf8;">
+        Visit My LinkedIn Profile
+      </a>
+    </p>
+
+    <p>
+      <b>GitHub:</b>
+      <a href="https://github.com/eltonasuquo67-ship-it" style="color:#38bdf8;">
+        My Projects
+      </a>
+    </p>
+  </div>
+
+  
+
+
+
   <!-- About -->
   <div style="max-width:800px; margin:auto; padding:30px;">
     <h2>👤 About Me</h2>
@@ -51,6 +99,8 @@
       </a>
     </p>
   </div>
+
+  
 
   <!-- Footer -->
   <div style="text-align:center; padding:20px; background:#111827; color:#94a3b8;">
