@@ -1,5 +1,6 @@
 <html>
 <body style="margin:0; font-family:Arial; background:#0f172a; color:white;">
+ <link rel="stylesheet" href="style.css">
  <!-- Header -->
 
 <!-- PROFILE PHOTO SECTION -->
