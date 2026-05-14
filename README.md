@@ -100,9 +100,6 @@ Using SQL, Excel, and Power BI, the project transforms raw data into actionable 
       
 
       
-        
-
-      <a href="YOUR-GITHUB-LINK" target="_blank">GitHub</a>
 
     </div>
 
