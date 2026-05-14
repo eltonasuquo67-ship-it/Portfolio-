@@ -32,7 +32,7 @@
 
 
 <!-- Contact -->
-  <div style="max-width:800px; margin:auto; padding:30px;">
+  <div style="max-width:800px; margin:auto; padding:20px;">
     <h2>📞 Contact</h2>
 
   Email: eltonasuquo67@gmail.com
@@ -58,7 +58,7 @@
 
 
   <!-- About -->
-  <div style="max-width:800px; margin:auto; padding:30px;">
+  <div style="max-width:800px; margin:auto; padding:20px;">
     <h2>👤 About Me</h2>
     <p>
       I am a passionate Data Analyst skilled in extracting, cleaning, analyzing, and visualizing data to help organizations make informed decisions.
@@ -71,7 +71,7 @@
     <ul>
       <li>SQL – Data querying, joins, filtering, and analysis</li>
       <li>Power BI – Interactive dashboards and data visualization</li>
-      <li>Excel – Data cleaning, formulas, pivot tables</li>
+      <li>Excel – Data cleaning, formulas, HlookUp, VlookUp, pivot tables</li>
       <li>Data Cleaning & Transformation</li>
       <li>Basic Data Storytelling</li>
     </ul>
@@ -137,13 +137,7 @@ This dashboard helps stakeholders quickly identify top-performing customer segme
 
      
 
-  </div>
-
-</section>
-
-  </div>
-
-</section>
+  
   
   <!-- Footer -->
   <div style="text-align:center; padding:20px; background:#111827; color:#94a3b8;">
