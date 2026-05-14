@@ -86,8 +86,7 @@
     <!-- Project 1 -->
     <div class="card">
 
-   <br><br>
-     <h3><strong> 📈 Global Cybersecurity Threats Analysis (2015–2024)</strong></h3>
+ <h3><strong> 📈 Global Cybersecurity Threats Analysis (2015–2024)</strong></h3>
 
  <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis"> 
  
