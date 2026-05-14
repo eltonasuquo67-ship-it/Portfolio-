@@ -85,30 +85,29 @@
 
     <!-- Project 1 -->
     <div class="card">
+
+   <br><br>
     
    📊 Global Cybersecurity Threats Analysis (2015–2024)
 
- <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis">    
+ <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis"> 
+ 
+<br><br>
 
 This project analyzes global cybersecurity threats over a 10-year period (2015–2024).  Visualized attack sources, financial loss, affected users, and incident resolution times across 10 countries to identify risk patterns and support data-driven security decisions.
 
-
-
-
+<br><br>
 
 Tools & Skills Demonstrated:
 Data cleaning, trend analysis, geographic visualization, and interactive dashboard development in Power BI/Excel. Focused on translating complex security data into clear, executive-level insights.
 
-
-
+<br><br>
 
 Business/Technical Value:
 This dashboard enables cybersecurity teams and business leaders to quickly pinpoint high-risk regions, common attack vectors, and response gaps. It supports prioritization of security investments and incident response planning.
+   
 
-
-      
-
-      
+   <br><br>  
 
     </div>
 
@@ -118,17 +117,18 @@ This dashboard enables cybersecurity teams and business leaders to quickly pinpo
    📈 Retail Sales Performance Analysis
 
    <img src="PHOTO-2026-05-03-13-26-27 3.jpg" alt="Retail Sales Performance">
+   
+<br><br>
      
 Designed an interactive Retail Sales Performance Dashboard to analyze revenue, customer behavior, and product performance across a full year of retail data. The dashboard transforms raw sales data into actionable insights for business decision-making.
 
-
-      
+  <br><br>    
 
 Tools & Skills Demonstrated:
 Data cleaning and modeling, KPI design, data visualization, and interactive dashboard development. Built to communicate insights clearly to both technical and non-technical stakeholders.
 
 
-
+<br><br>
 
 Business Impact:
 This dashboard helps stakeholders quickly identify top-performing customer segments, product categories, and time periods, supporting decisions around inventory, marketing spend, and sales strategy.
