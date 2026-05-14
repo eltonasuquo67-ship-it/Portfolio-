@@ -106,17 +106,13 @@ Using SQL, Excel, and Power BI, the project transforms raw data into actionable 
 
     <!-- Project 2 -->
     <div class="card">
+      Sales Performance Analysis
 
-      <img src="YOUR-IMAGE-LINK" alt="Retail Sales Performance">
+  <img src="PHOTO-2026-05-03-13-26-27 3.jpg" alt="Retail Sales Performance">
 
       
 
-      
-      </p>
-
-      <a href="YOUR-GITHUB-LINK" target="_blank">GitHub</a>
-
-    </div>
+     
 
   </div>
 
