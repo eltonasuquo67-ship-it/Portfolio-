@@ -87,7 +87,8 @@
     <!-- Project 1 -->
     <div class="card">
     📊 Global Cybersecurity Threats Analysis (2015–2024)
-
+    
+    
 🚀 Project Summary
 
 This project analyzes global cybersecurity threats over a 10-year period (2015–2024), focusing on attack sources, user impact, financial losses, and incident response performance.
@@ -95,7 +96,7 @@ This project analyzes global cybersecurity threats over a 10-year period (2015�
 Using SQL, Excel, and Power BI, the project transforms raw data into actionable insights to support cybersecurity decision-making.
       <img src="https://github.com/eltonasuquo67-ship-it/Portfolio-Website/blob/68c1166f4bbf169e37457ec64b7b86ffed3b13d6/PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis">
 
-      <h3>Cyber Security Threat Analysis</h3>
+      
 
       <p>
         Analyzed cyber attack patterns, security threats, phishing attempts,
