@@ -85,14 +85,22 @@
 
     <!-- Project 1 -->
     <div class="card">
+    
     📊 Global Cybersecurity Threats Analysis (2015–2024)
     
     
 🚀 Project Summary
 
-This project analyzes global cybersecurity threats over a 10-year period (2015–2024), focusing on attack sources, user impact, financial losses, and incident response performance.
+This project analyzes global cybersecurity threats over a 10-year period (2015–2024).  Visualized attack sources, financial loss, affected users, and incident resolution times across 10 countries to identify risk patterns and support data-driven security decisions.
 
-Using SQL, Excel, and Power BI, the project transforms raw data into actionable insights to support cybersecurity decision-making.
+
+Tools & Skills Demonstrated:
+Data cleaning, trend analysis, geographic visualization, and interactive dashboard development in Power BI/Excel. Focused on translating complex security data into clear, executive-level insights.
+
+Business/Technical Value:
+This dashboard enables cybersecurity teams and business leaders to quickly pinpoint high-risk regions, common attack vectors, and response gaps. It supports prioritization of security investments and incident response planning.
+
+
 
 
  <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis">
@@ -106,7 +114,16 @@ Using SQL, Excel, and Power BI, the project transforms raw data into actionable 
 
     <!-- Project 2 -->
     <div class="card">
-      Sales Performance Analysis
+     📈 Sales Performance Analysis
+     
+Designed an interactive Retail Sales Performance Dashboard to analyze revenue, customer behavior, and product performance across a full year of retail data. The dashboard transforms raw sales data into actionable insights for business decision-making.
+      
+
+Tools & Skills Demonstrated:
+Data cleaning and modeling, KPI design, data visualization, and interactive dashboard development. Built to communicate insights clearly to both technical and non-technical stakeholders.
+
+Business Impact:
+This dashboard helps stakeholders quickly identify top-performing customer segments, product categories, and time periods, supporting decisions around inventory, marketing spend, and sales strategy.
 
   <img src="PHOTO-2026-05-03-13-26-27 3.jpg" alt="Retail Sales Performance">
 
