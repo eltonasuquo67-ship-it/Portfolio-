@@ -24,10 +24,12 @@
 
 .card h3{
   margin-top:15px;
+  color:white;
 }
 
 .card p{
   font-size:14px;
+  color:#ccc;
 }
 
 .card a{
