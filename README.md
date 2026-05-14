@@ -78,36 +78,48 @@
     </ul>
   </div>
 
-  <section id="projects">
+<section id="projects">
 
   <h2>My Projects</h2>
 
   <div class="project-box">
 
+    <!-- Project 1 -->
     <div class="card">
-      <img src="https://github.com/eltonasuquo67-ship-it/Portfolio-Website/blob/68c1166f4bbf169e37457ec64b7b86ffed3b13d6/PHOTO-2026-05-03-13-26-27.jpg">
 
-      <h3>Sales Dashboard</h3>
+      <img src="YOUR-IMAGE-LINK" alt="Cyber Security Threat Analysis">
+
+      <h3>Cyber Security Threat Analysis</h3>
 
       <p>
-        Interactive dashboard analyzing sales performance and customer trends.
+        Analyzed cyber attack patterns, security threats, phishing attempts,
+        and system vulnerabilities using data visualization techniques.
       </p>
 
-      <a href="https://github.com/" target="_blank">GitHub</a>
+      <a href="YOUR-GITHUB-LINK" target="_blank">GitHub</a>
+
     </div>
 
 
+    <!-- Project 2 -->
     <div class="card">
-      <img src="https://via.placeholder.com/300" alt="Project 2">
 
-      <h3>HR Analytics</h3>
+      <img src="YOUR-IMAGE-LINK" alt="Retail Sales Performance">
+
+      <h3>Retail Sales Performance</h3>
 
       <p>
-        Data analysis project showing employee attrition and workforce insights.
+        Built a sales analytics dashboard tracking revenue, customer behavior,
+        product performance, and monthly sales trends.
       </p>
 
-      <a href="https://github.com/" target="_blank">GitHub</a>
+      <a href="YOUR-GITHUB-LINK" target="_blank">GitHub</a>
+
     </div>
+
+  </div>
+
+</section>
 
   </div>
 
