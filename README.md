@@ -24,7 +24,6 @@
     <p style="font-size:18px; color:#cbd5e1;">
       Data Analyst | Power BI | SQL | Excel
     </p>
-    <p style="color:#94a3b8;
 
 
 <!-- Contact -->
