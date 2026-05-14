@@ -19,7 +19,7 @@
 </div>
 
  
-  <div style="text-align:center; padding:30px 20px; background:#111827;">
+  <div style="text-align:center; padding:20px 20px; background:#111827;">
     <h1 style="margin:0; font-size:40px;">Elton Asuquo</h1>
     <p style="font-size:18px; color:#cbd5e1;">
       Data Analyst | Power BI | SQL | Excel
@@ -66,7 +66,7 @@
     </p>
   </div>
   <!-- Skills -->
-  <div style="max-width:800px; margin:auto; padding:30px;">
+  <div style="max-width:800px; margin:auto; padding:20px;">
     <h2>🧠 Skills</h2>
     <ul>
       <li>SQL – Data querying, joins, filtering, and analysis</li>
@@ -87,8 +87,7 @@
     <div class="card">
 
    <br><br>
-    
-   📊 Global Cybersecurity Threats Analysis (2015–2024)
+     <h3><strong> 📈 Global Cybersecurity Threats Analysis (2015–2024)</strong></h3>
 
  <img src="PHOTO-2026-05-03-13-26-27.jpg" alt="Cyber Security Threat Analysis"> 
  
@@ -114,7 +113,7 @@ This dashboard enables cybersecurity teams and business leaders to quickly pinpo
 
     <!-- Project 2 -->
     <div class="card">
-   📈 Retail Sales Performance Analysis
+   <h3><strong>📊 Retail Sales Performance Analysis</strong></h3>
 
    <img src="PHOTO-2026-05-03-13-26-27 3.jpg" alt="Retail Sales Performance">
    
@@ -149,7 +148,7 @@ This dashboard helps stakeholders quickly identify top-performing customer segme
   <!-- Footer -->
   <div style="text-align:center; padding:20px; background:#111827; color:#94a3b8;">
     © 2026 Elton Asuquo | Data Analyst Portfolio
-  </div>
+  
 
   
   
